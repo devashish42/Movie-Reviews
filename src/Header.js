@@ -35,10 +35,7 @@ function Header() {
           <p>Profile</p>
         </div>
       </div>
-      <img
-        src="https://cdn.vox-cdn.com/thumbor/x2wHfO_kw-k_BfI2PbKPT6l7YOM=/0x0:750x1334/920x613/filters:focal(311x590:431x710):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/56311703/Image_uploaded_from_iOS__8_.1503433270.jpg"
-        alt=""
-      />
+      <img src="" alt="" />
     </div>
   );
 }
