@@ -1,0 +1,12 @@
+.App {
+  background-image: linear-gradient(to right, #00111f, #062717);
+}
+.App::-webkit-scrollbar {
+  display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+.App {
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
+}
